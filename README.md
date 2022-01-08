@@ -1,0 +1,2 @@
+# offline-dictionary
+offline dictionary
